@@ -9,7 +9,8 @@ import { UsuariosComponent } from './usuarios/usuarios.component';
 @NgModule({
   declarations: [
     AppComponent,
-    UsuariosComponent
+    UsuariosComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
